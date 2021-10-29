@@ -1,7 +1,8 @@
 # Django-TextUtils
 Django Course Project
 
-TextEditor or TextCorrector
+A tool for analyzing text data in Django backend.
+
 It is a project where you can do some of the things with you text.
 It Gives you the text area where you can put your text and then there are certain options like:
 > Remove punctuations - If there are punctuations (!@#$%^&*()'"...) in your text and if you want to remove it so just press that option.
